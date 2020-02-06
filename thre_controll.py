@@ -1,6 +1,6 @@
 '''
-2019.12.28
-sudo python thre_hack.py
+2020.2.6
+sudo python thre_controll.py
 閾値による動作識別
 
 '''
