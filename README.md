@@ -1,0 +1,2 @@
+# myoelectric_threshold_control
+EMG信号をもとに閾値による動作識別を行う
